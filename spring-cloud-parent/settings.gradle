@@ -1,0 +1,10 @@
+rootProject.name = 'spring-cloud-parent'
+
+// remark
+includeFlat 'spring-cloud-discovery-eureka'
+
+// remark
+includeFlat 'spring-cloud-provider'
+
+//
+includeFlat 'spring-cloud-consumer'
