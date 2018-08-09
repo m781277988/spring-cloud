@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jwong-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/jwong-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/study-spring-cloud.iml" filepath="$PROJECT_DIR$/study-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1116315989/spring-cloud-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/1116315989/spring-cloud-consumer.iml" group="spring-cloud-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1116315989/spring-cloud-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1116315989/spring-cloud-consumer_main.iml" group="spring-cloud-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1116315989/spring-cloud-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1116315989/spring-cloud-consumer_test.iml" group="spring-cloud-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1550449813/spring-cloud-discovery-eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/1550449813/spring-cloud-discovery-eureka.iml" group="spring-cloud-discovery-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1550449813/spring-cloud-discovery-eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1550449813/spring-cloud-discovery-eureka_main.iml" group="spring-cloud-discovery-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1550449813/spring-cloud-discovery-eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1550449813/spring-cloud-discovery-eureka_test.iml" group="spring-cloud-discovery-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-cloud-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/696591184/spring-cloud-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/696591184/spring-cloud-provider.iml" group="spring-cloud-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/696591184/spring-cloud-provider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/696591184/spring-cloud-provider_main.iml" group="spring-cloud-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/696591184/spring-cloud-provider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/696591184/spring-cloud-provider_test.iml" group="spring-cloud-provider" />
     </modules>
   </component>
 </project>
