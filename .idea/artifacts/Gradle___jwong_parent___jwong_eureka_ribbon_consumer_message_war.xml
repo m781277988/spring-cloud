@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : jwong-parent : jwong-eureka-ribbon-consumer-message.war">
+    <output-path>$PROJECT_DIR$/jwong-eureka-ribbon-consumer-message/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/jwong-parent" />
+    </properties>
+    <root id="archive" name="jwong-eureka-ribbon-consumer-message.war">
+      <element id="artifact" artifact-name="Gradle : jwong-parent : jwong-eureka-ribbon-consumer-message.war (exploded)" />
+    </root>
+  </artifact>
+</component>
